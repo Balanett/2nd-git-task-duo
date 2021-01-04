@@ -1,0 +1,41 @@
+Páros feladat 
+
+0. hozz létre egy public repót GitHub-on és add meg a társadnak a linkjét
+Add hozzá őt engem és LAcit Collaboratorként a repódhoz! 
+(Csereéljetek email címet - email cím:amivel Githubra regeltetek)
+Zoli- zoltanrakottyai@gmail.com	
+USer név alapjá laszland (https://github.com/laszland)
+
+
+1. kaptál te is egy repó linkket, ezt mosd tedd félre, és haladj a 2. pontra.
+
+2. sajátodat clone-ozd a saját gépedre és hozz létre egy index.html-t alap html5 szerkezettel, ill.
+  egy külső css-sel linkkelve
+
+3. commitold be a fájlokat "initial commit" néven és pushold a szervesrre vissza (remote-ra)
+
+4. Itt várd meg, amíg a társad elér szintén eddig a sorig! :)
+
+b) 
+0. klónozd le a tarsadtól kapott linken található repót vhova a gépeden 
+(lényeg, h az előző repón kívüli mappába bárhova , pl. asztal)
+- fetch-elj
+- pull-olj
+
+1. az index html-ben:
+	- írd át a header-ben a title-t: "Git tutorial"
+	- hozz létre egy header-t a body-ban és h1 címsorral írd bele a "Git tutorial" szavakat, a CSS féjlban formázd a címsort középre igazítással és Helvetica betűtípussal
+2. commitold "added title and header" néven majd pushold	
+
+c) Végül ellenőrizd a társad által pusholt módosítás helyességét a saját repódban
+
+
+Parancsok:
+git clone <https url> (távaol repó klónozása saját gépedre)
+git fetch (változások lekérdezése)
+git pull (valátozások lehuzása saját gépedre)
+git push (változások felküldése a távoli repóba)
+
+
+
+
